@@ -10,7 +10,7 @@ B.Tech CSIT Student | Full-Stack Developer | DSA Enthusiast
 
 - 🎓 B.Tech CSIT @ AKGEC
 - 💻 Full-Stack Web Developer
-- 🧠 Solved 300+ DSA Problems
+- 🧠 Solved 500+ DSA Problems
 - 🌱 Currently Learning MERN Stack
 - 📫 Email: rajaditya77334@gmail.com
 
