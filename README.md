@@ -12,7 +12,7 @@ B.Tech CSIT Student | Full-Stack Developer | DSA Enthusiast
 - 💻 Full-Stack Web Developer
 - 🧠 Solved 500+ DSA Problems
 - 🌱 Currently Learning MERN Stack
-- 📫 Email: rajaditya77334@gmail.com
+- 📫 Email: iostreamaditya@gmail.com
 
 ---
 
