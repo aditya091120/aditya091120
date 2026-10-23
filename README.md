@@ -96,6 +96,7 @@ View my official contribution graph and activity
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -106,11 +107,12 @@ View my official contribution graph and activity
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=aditya091120&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<a href="https://github.com/aditya091120">
+  <img src="https://img.shields.io/badge/Official%20Contributions-View%20on%20GitHub-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="Official GitHub contributions" />
+</a>
 
 </div>
 
----
 
 ## 🏆 GitHub Trophies
 
