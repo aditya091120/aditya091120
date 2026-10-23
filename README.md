@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 
 <h3 align="center">
@@ -22,9 +23,20 @@ B.Tech CSIT Student | Full-Stack Developer | DSA Enthusiast
 
 [Portfolio](https://fanciful-speculoos-00115c.netlify.app/)
 
-
 ---
 
 ### 🛠️ Tech Stack
 
 C++ | JavaScript | HTML | CSS | React | Node.js | Express | MongoDB
+
+---
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=aditya091120&theme=darkhub&no-frame=true)
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/aditya091120/aditya091120/output/github-contribution-grid-snake-dark.svg)
