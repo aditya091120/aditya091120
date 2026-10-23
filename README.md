@@ -78,24 +78,23 @@ A movie browsing application featuring movie data fetched through the TMDB API.
 
 ---
 
-## 📈 My GitHub Contributions
+## 📈 GitHub Contribution Calendar
 
 <div align="center">
 
 <a href="https://github.com/aditya091120">
-<img src="https://img.shields.io/badge/View-Official%20GitHub%20Contributions-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="View official GitHub contributions" />
+<img src="https://ghchart.rshah.org/2F81F7/aditya091120" alt="GitHub contribution calendar" width="100%" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/aditya091120">
-View my official contribution graph and activity
+View my official GitHub contribution graph
 </a>
 
 </div>
 
 ---
-
 
 ## 📊 GitHub Statistics
 
@@ -107,12 +106,11 @@ View my official contribution graph and activity
 
 <br/><br/>
 
-<a href="https://github.com/aditya091120">
-  <img src="https://img.shields.io/badge/Official%20Contributions-View%20on%20GitHub-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="Official GitHub contributions" />
-</a>
+<img src="https://streak-stats.demolab.com?user=aditya091120&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
+---
 
 ## 🏆 GitHub Trophies
 
